@@ -1,5 +1,5 @@
 ### Web-Design
-#It's a collection of all resources that can be referenced for designing and building a great frontend.
+# It's a collection of all resources that can be referenced for designing and building a great frontend.
 
 - **Collection of beautiful one page websites:**
 https://onepagelove.com
@@ -27,3 +27,11 @@ https://templated.co
 
 - **Awesome CSS and JS applications:**
 https://www.cssdesignawards.com/blog/10-cool-css-js-demos-tuts-to-apply-and-use/67/
+
+- **A place where you get current news and trend related to CSS:**
+https://css-tricks.com
+
+- **Must read before building any website profeasionally:**
+[Best practices] (https://github.com/hail2u/html-best-practices/blob/master/README.md)
+
+
