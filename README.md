@@ -24,7 +24,7 @@
 - **Try to remember most of these [CSS selectors](https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)**
 
 - **Best bootstrap CSS Explaination**
-    -[Bootstrap v3.3](https://getbootstrap.com/docs/3.3/css/)
+    - [Bootstrap v3.3](https://getbootstrap.com/docs/3.3/css/)
 
 
 ## Inspirations
@@ -44,8 +44,8 @@
 [Coolors](https://coolors.co)
 
 - **Resources for Gradients:**
-    -[Grabient](https://www.grabient.com/?ref=producthunt)
-    -[UIGradients](https://uigradients.com/#SublimeLight)
+    - [Grabient](https://www.grabient.com/?ref=producthunt)
+    - [UIGradients](https://uigradients.com/#SublimeLight)
 
 - **How to use gradients:**
 [Designmodo](https://designmodo.com/gradients/)
