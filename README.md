@@ -10,16 +10,16 @@
 
 ## HTML
 
-- [Mozilla](https://developer.mozilla.org/en-US/docs/Web/HTML) offers a detailed reference guide.
+- [Mozilla](https://developer.mozilla.org/en-US/docs/Web/HTML) offers a detailed reference guide for HTML.
 
 ## CSS
 
-- [Mozilla](https://developer.mozilla.org/en-US/docs/Web/CSS) offers a detailed reference guide.
+- [Mozilla](https://developer.mozilla.org/en-US/docs/Web/CSS) offers a detailed reference guide for CSS.
 
 - **Try to remember most of these [CSS selectors](https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)**
 
 - **Best bootstrap CSS Explaination**
-  -[Bootstrap v3.3](https://getbootstrap.com/docs/3.3/css/)
+    -[Bootstrap v3.3](https://getbootstrap.com/docs/3.3/css/)
 
 
 ## Inspirations
@@ -39,7 +39,8 @@
 [Coolors](https://coolors.co)
 
 - **Resources for Gradients:**
-[Grabient](https://www.grabient.com/?ref=producthunt)
+    -[Grabient](https://www.grabient.com/?ref=producthunt)
+    -[UIGradients](https://uigradients.com/#SublimeLight)
 
 - **How to use gradients:**
 [Designmodo](https://designmodo.com/gradients/)
@@ -53,13 +54,12 @@
 ## Icons
 
 - [Flaticons](https://www.flaticon.com/) offers the largest database of free and premium icons.
+- [Font Awesome](http://fontawesome.io/) gives you scalable vector icons that can instantly be customized — size, color, drop shadow, and anything that can be done with the power of CSS.
 
 ## Vectors
 
 - [Vecteezy](https://www.vecteezy.com)
-
 - [Freepik](https://www.freepik.com)
-
 
 ## Templates
 
