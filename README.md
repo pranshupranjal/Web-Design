@@ -29,13 +29,13 @@
 
 ## Inspirations
 
-- **Collection of beautiful one page websites:**
+- Collection of beautiful one page websites:
 [Onepagelove](https://onepagelove.com)
 
-- **Awesome CSS and JS applications:**
+- Awesome CSS and JS applications:
 [CSS Design Awards](https://www.cssdesignawards.com/blog/10-cool-css-js-demos-tuts-to-apply-and-use/67/)
 
-- **A place where you get current news and trend related to CSS:**
+- A place where you get current news and trend related to CSS:
 [CSS Tricks](https://css-tricks.com)
 
 ## Color
