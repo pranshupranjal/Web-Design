@@ -1,6 +1,22 @@
 # Web-Design
-### It's a collection of all resources that can be referenced for designing and building a great frontend.
-#### This list was based on my experience to learn web design.
+#### It's a collection of all resources that can be referenced for designing and building a great frontend. This list is based on my experience in learning web designing.
+
+I started learning from here:
+
+**One of the best online courses for complete web technologies learning:**
+[This is a paid tutorial](https://www.udemy.com/the-web-developer-bootcamp/)
+
+## Table of Contents
+**Here is a short list with links to different sections of the document:**
+- [HTML](https://github.com/Pranshu98/Web-Design#html)
+- [CSS](https://github.com/Pranshu98/Web-Design#css)
+- [Inspirations](https://github.com/Pranshu98/Web-Design#inspirations)
+- [Color](https://github.com/Pranshu98/Web-Design#color)
+- [Fonts](https://github.com/Pranshu98/Web-Design#fonts)
+- [Icons](https://github.com/Pranshu98/Web-Design#icons)
+- [Vectors](https://github.com/Pranshu98/Web-Design#vectors)
+- [Templates](https://github.com/Pranshu98/Web-Design#templates)
+- [Must Reads](https://github.com/Pranshu98/Web-Design#must-reads)
 
 
 
@@ -68,5 +84,5 @@
 
 ## Must reads
 
-- **Must read before building any website profeasionally:**
+- **Must read before building any website professionally:**
 [Best practices](https://github.com/hail2u/html-best-practices/blob/master/README.md)
