@@ -1,10 +1,5 @@
 # Web-Design
-#### It's a collection of all resources that can be referenced for designing and building a great frontend. This list is based on my experience in learning web designing.
-
-I started learning from here:
-
-**One of the best online courses for complete web technologies learning:**
-[This is a paid tutorial](https://www.udemy.com/the-web-developer-bootcamp/)
+> This is a collection of all resources that can be referenced for designing and building a great frontend. This list is based on my experience in learning web designing.
 
 ## Table of Contents
 **Here is a short list with links to different sections of the document:**
@@ -17,12 +12,6 @@ I started learning from here:
 - [Vectors](https://github.com/Pranshu98/Web-Design#vectors)
 - [Templates](https://github.com/Pranshu98/Web-Design#templates)
 - [Must Reads](https://github.com/Pranshu98/Web-Design#must-reads)
-
-
-
-**One of the best online courses for complete web technologies learning:**
-[This is a paid tutorial](https://www.udemy.com/the-web-developer-bootcamp/)
-
 
 ## HTML
 
@@ -60,6 +49,9 @@ I started learning from here:
 
 - **How to use gradients:**
 [Designmodo](https://designmodo.com/gradients/)
+
+- **Official colors for the world's biggest brands:**
+    - [Brandcolors](https://brandcolors.net/)
 
 
 ## Fonts
