@@ -21,9 +21,9 @@
 
 - [Mozilla](https://developer.mozilla.org/en-US/docs/Web/CSS) offers a detailed reference guide for CSS.
 
-- **Try to remember most of these [CSS selectors](https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)**
+- Try to remember most of these [CSS selectors](https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
 
-- **Best bootstrap CSS Explaination**
+- Best bootstrap CSS Explaination
     - [Bootstrap v3.3](https://getbootstrap.com/docs/3.3/css/)
 
 
@@ -40,17 +40,17 @@
 
 ## Color
 
-- **Colour scheme selection:**
+- Colour scheme selection:
 [Coolors](https://coolors.co)
 
-- **Resources for Gradients:**
+- Resources for Gradients:
     - [Grabient](https://www.grabient.com/?ref=producthunt)
     - [UIGradients](https://uigradients.com/#SublimeLight)
 
-- **How to use gradients:**
+- How to use gradients:
 [Designmodo](https://designmodo.com/gradients/)
 
-- **Official colors for the world's biggest brands:**
+- Official colors for the world's biggest brands:
     - [Brandcolors](https://brandcolors.net/)
 
 
@@ -71,10 +71,10 @@
 
 ## Templates
 
-- **Good website templates for free:**
+- Good website templates for free:
 [Templated](https://templated.co)
 
 ## Must reads
 
-- **Must read before building any website professionally:**
+- Must read before building any website professionally:
 [Best practices](https://github.com/hail2u/html-best-practices/blob/master/README.md)
