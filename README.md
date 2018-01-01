@@ -46,9 +46,8 @@
 - Resources for Gradients:
     - [Grabient](https://www.grabient.com/?ref=producthunt)
     - [UIGradients](https://uigradients.com/#SublimeLight)
-
-- How to use gradients:
-[Designmodo](https://designmodo.com/gradients/)
+       - How to use gradients:
+         - [Designmodo](https://designmodo.com/gradients/)
 
 - Official colors for the world's biggest brands:
     - [Brandcolors](https://brandcolors.net/)
