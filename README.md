@@ -29,6 +29,11 @@
     [CSS Design Awards](https://www.cssdesignawards.com/blog/10-cool-css-js-demos-tuts-to-apply-and-use/67/)
 - A place where you get current news and trend related to CSS:
     [CSS Tricks](https://css-tricks.com)
+- To check out the upcoming new things that are made possible due to awesome web desigining:
+    [Codrops](https://tympanus.net/codrops/)
+    
+## Free awesome stuff
+- Free hand-picked HTML and CSS code examples, tutorials and articles. jQuery plugins. [Free Front End](http://freefrontend.com/)
 
 ## Color
 - Colour scheme selection: [Coolors](https://coolors.co)
