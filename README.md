@@ -1,5 +1,5 @@
 # Web-Design
-> This is a collection of all resources that can be referenced for designing and building a great frontend. This list is based on my experience in learning web designing.
+> This is a collection of all resources that can be referenced for designing and building a great frontend. This list is based on my experience in learning web designing.feel free to send pull requests.
 
 ## Table of Contents
 **Here is a short list with links to different sections of the document:**
