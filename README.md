@@ -44,7 +44,7 @@
         [Designmodo](https://designmodo.com/gradients/)
 - Official colors for the world's biggest brands:
     - [Brandcolors](https://brandcolors.net/)
-
+    
 ## Fonts
 - [Google Fonts](https://www.googlefonts.com)
 
@@ -63,3 +63,14 @@
 ## Must reads
 - Must read before building any website professionally:
     [Best practices](https://github.com/hail2u/html-best-practices/blob/master/README.md)
+
+## Some important Keyterms
+  - Kerning Vs Tracking Vs Leading
+     [See the difference](https://creativemarket.com/blog/whats-the-difference-between-leading-kerning-and-tracking)
+  - Whitespace
+     [Whitespace](https://www.seguetech.com/whitespace-web-design/)
+  - Mobile Reachability
+     [Rules of thumb](https://medium.com/@Draward/mobile-reachability-rules-of-thumb-ce37dd0cd3ad)
+  - Light or Dark UI
+     [Which is better](https://uxplanet.org/light-or-dark-ui-tips-to-choose-a-proper-color-scheme-for-user-interface-9a12004bb79e)
+     
